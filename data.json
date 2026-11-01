@@ -1,0 +1,1552 @@
+[
+  {
+    "province": "北京市",
+    "year": "2025",
+    "value": 50667
+  },
+  {
+    "province": "北京市",
+    "year": "2024",
+    "value": 49748
+  },
+  {
+    "province": "北京市",
+    "year": "2023",
+    "value": 47586
+  },
+  {
+    "province": "北京市",
+    "year": "2022",
+    "value": 42683
+  },
+  {
+    "province": "北京市",
+    "year": "2021",
+    "value": 43640
+  },
+  {
+    "province": "北京市",
+    "year": "2020",
+    "value": 38903
+  },
+  {
+    "province": "北京市",
+    "year": "2019",
+    "value": 43038
+  },
+  {
+    "province": "北京市",
+    "year": "2018",
+    "value": 39843
+  },
+  {
+    "province": "北京市",
+    "year": "2017",
+    "value": 37425
+  },
+  {
+    "province": "北京市",
+    "year": "2016",
+    "value": 35416
+  },
+  {
+    "province": "天津市",
+    "year": "2025",
+    "value": 37147
+  },
+  {
+    "province": "天津市",
+    "year": "2024",
+    "value": 35804
+  },
+  {
+    "province": "天津市",
+    "year": "2023",
+    "value": 34914
+  },
+  {
+    "province": "天津市",
+    "year": "2022",
+    "value": 31324
+  },
+  {
+    "province": "天津市",
+    "year": "2021",
+    "value": 33188
+  },
+  {
+    "province": "天津市",
+    "year": "2020",
+    "value": 28461
+  },
+  {
+    "province": "天津市",
+    "year": "2019",
+    "value": 31854
+  },
+  {
+    "province": "天津市",
+    "year": "2018",
+    "value": 29903
+  },
+  {
+    "province": "天津市",
+    "year": "2017",
+    "value": 27841
+  },
+  {
+    "province": "天津市",
+    "year": "2016",
+    "value": 26129
+  },
+  {
+    "province": "河北省",
+    "year": "2025",
+    "value": 25464
+  },
+  {
+    "province": "河北省",
+    "year": "2024",
+    "value": 24253
+  },
+  {
+    "province": "河北省",
+    "year": "2023",
+    "value": 22920
+  },
+  {
+    "province": "河北省",
+    "year": "2022",
+    "value": 20890
+  },
+  {
+    "province": "河北省",
+    "year": "2021",
+    "value": 19954
+  },
+  {
+    "province": "河北省",
+    "year": "2020",
+    "value": 18037
+  },
+  {
+    "province": "河北省",
+    "year": "2019",
+    "value": 17987
+  },
+  {
+    "province": "河北省",
+    "year": "2018",
+    "value": 16722
+  },
+  {
+    "province": "河北省",
+    "year": "2017",
+    "value": 15437
+  },
+  {
+    "province": "河北省",
+    "year": "2016",
+    "value": 14247
+  },
+  {
+    "province": "山西省",
+    "year": "2025",
+    "value": 22265
+  },
+  {
+    "province": "山西省",
+    "year": "2024",
+    "value": 21090
+  },
+  {
+    "province": "山西省",
+    "year": "2023",
+    "value": 19756
+  },
+  {
+    "province": "山西省",
+    "year": "2022",
+    "value": 17537
+  },
+  {
+    "province": "山西省",
+    "year": "2021",
+    "value": 17191
+  },
+  {
+    "province": "山西省",
+    "year": "2020",
+    "value": 15733
+  },
+  {
+    "province": "山西省",
+    "year": "2019",
+    "value": 15863
+  },
+  {
+    "province": "山西省",
+    "year": "2018",
+    "value": 14810
+  },
+  {
+    "province": "山西省",
+    "year": "2017",
+    "value": 13664
+  },
+  {
+    "province": "山西省",
+    "year": "2016",
+    "value": 12683
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2025",
+    "value": 29159
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2024",
+    "value": 28113
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2023",
+    "value": 27025
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2022",
+    "value": 22298
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2021",
+    "value": 22658
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2020",
+    "value": 19794
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2019",
+    "value": 20743
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2018",
+    "value": 19665
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2017",
+    "value": 18946
+  },
+  {
+    "province": "内蒙古自治区",
+    "year": "2016",
+    "value": 18072
+  },
+  {
+    "province": "辽宁省",
+    "year": "2025",
+    "value": 26933
+  },
+  {
+    "province": "辽宁省",
+    "year": "2024",
+    "value": 25963
+  },
+  {
+    "province": "辽宁省",
+    "year": "2023",
+    "value": 24865
+  },
+  {
+    "province": "辽宁省",
+    "year": "2022",
+    "value": 22604
+  },
+  {
+    "province": "辽宁省",
+    "year": "2021",
+    "value": 23831
+  },
+  {
+    "province": "辽宁省",
+    "year": "2020",
+    "value": 20672
+  },
+  {
+    "province": "辽宁省",
+    "year": "2019",
+    "value": 22203
+  },
+  {
+    "province": "辽宁省",
+    "year": "2018",
+    "value": 21398
+  },
+  {
+    "province": "辽宁省",
+    "year": "2017",
+    "value": 20463
+  },
+  {
+    "province": "辽宁省",
+    "year": "2016",
+    "value": 19853
+  },
+  {
+    "province": "吉林省",
+    "year": "2025",
+    "value": 24074
+  },
+  {
+    "province": "吉林省",
+    "year": "2024",
+    "value": 23118
+  },
+  {
+    "province": "吉林省",
+    "year": "2023",
+    "value": 21411
+  },
+  {
+    "province": "吉林省",
+    "year": "2022",
+    "value": 17898
+  },
+  {
+    "province": "吉林省",
+    "year": "2021",
+    "value": 19605
+  },
+  {
+    "province": "吉林省",
+    "year": "2020",
+    "value": 17318
+  },
+  {
+    "province": "吉林省",
+    "year": "2019",
+    "value": 18075
+  },
+  {
+    "province": "吉林省",
+    "year": "2018",
+    "value": 17200
+  },
+  {
+    "province": "吉林省",
+    "year": "2017",
+    "value": 15632
+  },
+  {
+    "province": "吉林省",
+    "year": "2016",
+    "value": 14773
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2025",
+    "value": 24431
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2024",
+    "value": 23467
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2023",
+    "value": 22052
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2022",
+    "value": 20412
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2021",
+    "value": 20636
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2020",
+    "value": 17056
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2019",
+    "value": 18111
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2018",
+    "value": 16994
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2017",
+    "value": 15577
+  },
+  {
+    "province": "黑龙江省",
+    "year": "2016",
+    "value": 14446
+  },
+  {
+    "province": "上海市",
+    "year": "2025",
+    "value": 54765
+  },
+  {
+    "province": "上海市",
+    "year": "2024",
+    "value": 52722
+  },
+  {
+    "province": "上海市",
+    "year": "2023",
+    "value": 52508
+  },
+  {
+    "province": "上海市",
+    "year": "2022",
+    "value": 46045
+  },
+  {
+    "province": "上海市",
+    "year": "2021",
+    "value": 48879
+  },
+  {
+    "province": "上海市",
+    "year": "2020",
+    "value": 42536
+  },
+  {
+    "province": "上海市",
+    "year": "2019",
+    "value": 45605
+  },
+  {
+    "province": "上海市",
+    "year": "2018",
+    "value": 43351
+  },
+  {
+    "province": "上海市",
+    "year": "2017",
+    "value": 39792
+  },
+  {
+    "province": "上海市",
+    "year": "2016",
+    "value": 37458
+  },
+  {
+    "province": "江苏省",
+    "year": "2025",
+    "value": 38975
+  },
+  {
+    "province": "江苏省",
+    "year": "2024",
+    "value": 37346
+  },
+  {
+    "province": "江苏省",
+    "year": "2023",
+    "value": 35491
+  },
+  {
+    "province": "江苏省",
+    "year": "2022",
+    "value": 32848
+  },
+  {
+    "province": "江苏省",
+    "year": "2021",
+    "value": 31451
+  },
+  {
+    "province": "江苏省",
+    "year": "2020",
+    "value": 26225
+  },
+  {
+    "province": "江苏省",
+    "year": "2019",
+    "value": 26697
+  },
+  {
+    "province": "江苏省",
+    "year": "2018",
+    "value": 25007
+  },
+  {
+    "province": "江苏省",
+    "year": "2017",
+    "value": 23469
+  },
+  {
+    "province": "江苏省",
+    "year": "2016",
+    "value": 22130
+  },
+  {
+    "province": "浙江省",
+    "year": "2025",
+    "value": 47551
+  },
+  {
+    "province": "浙江省",
+    "year": "2024",
+    "value": 45107
+  },
+  {
+    "province": "浙江省",
+    "year": "2023",
+    "value": 42194
+  },
+  {
+    "province": "浙江省",
+    "year": "2022",
+    "value": 38971
+  },
+  {
+    "province": "浙江省",
+    "year": "2021",
+    "value": 36668
+  },
+  {
+    "province": "浙江省",
+    "year": "2020",
+    "value": 31295
+  },
+  {
+    "province": "浙江省",
+    "year": "2019",
+    "value": 32026
+  },
+  {
+    "province": "浙江省",
+    "year": "2018",
+    "value": 29471
+  },
+  {
+    "province": "浙江省",
+    "year": "2017",
+    "value": 27079
+  },
+  {
+    "province": "浙江省",
+    "year": "2016",
+    "value": 25527
+  },
+  {
+    "province": "安徽省",
+    "year": "2025",
+    "value": 26022
+  },
+  {
+    "province": "安徽省",
+    "year": "2024",
+    "value": 24996
+  },
+  {
+    "province": "安徽省",
+    "year": "2023",
+    "value": 23607
+  },
+  {
+    "province": "安徽省",
+    "year": "2022",
+    "value": 22542
+  },
+  {
+    "province": "安徽省",
+    "year": "2021",
+    "value": 21911
+  },
+  {
+    "province": "安徽省",
+    "year": "2020",
+    "value": 18877
+  },
+  {
+    "province": "安徽省",
+    "year": "2019",
+    "value": 19137
+  },
+  {
+    "province": "安徽省",
+    "year": "2018",
+    "value": 17045
+  },
+  {
+    "province": "安徽省",
+    "year": "2017",
+    "value": 15752
+  },
+  {
+    "province": "安徽省",
+    "year": "2016",
+    "value": 14712
+  },
+  {
+    "province": "福建省",
+    "year": "2025",
+    "value": 35631
+  },
+  {
+    "province": "福建省",
+    "year": "2024",
+    "value": 33876
+  },
+  {
+    "province": "福建省",
+    "year": "2023",
+    "value": 31869
+  },
+  {
+    "province": "福建省",
+    "year": "2022",
+    "value": 30042
+  },
+  {
+    "province": "福建省",
+    "year": "2021",
+    "value": 28440
+  },
+  {
+    "province": "福建省",
+    "year": "2020",
+    "value": 25126
+  },
+  {
+    "province": "福建省",
+    "year": "2019",
+    "value": 25314
+  },
+  {
+    "province": "福建省",
+    "year": "2018",
+    "value": 22996
+  },
+  {
+    "province": "福建省",
+    "year": "2017",
+    "value": 21249
+  },
+  {
+    "province": "福建省",
+    "year": "2016",
+    "value": 20167
+  },
+  {
+    "province": "江西省",
+    "year": "2025",
+    "value": 26094
+  },
+  {
+    "province": "江西省",
+    "year": "2024",
+    "value": 24726
+  },
+  {
+    "province": "江西省",
+    "year": "2023",
+    "value": 23379
+  },
+  {
+    "province": "江西省",
+    "year": "2022",
+    "value": 21708
+  },
+  {
+    "province": "江西省",
+    "year": "2021",
+    "value": 20290
+  },
+  {
+    "province": "江西省",
+    "year": "2020",
+    "value": 17955
+  },
+  {
+    "province": "江西省",
+    "year": "2019",
+    "value": 17650
+  },
+  {
+    "province": "江西省",
+    "year": "2018",
+    "value": 15792
+  },
+  {
+    "province": "江西省",
+    "year": "2017",
+    "value": 14459
+  },
+  {
+    "province": "江西省",
+    "year": "2016",
+    "value": 13259
+  },
+  {
+    "province": "山东省",
+    "year": "2025",
+    "value": 26596
+  },
+  {
+    "province": "山东省",
+    "year": "2024",
+    "value": 25645
+  },
+  {
+    "province": "山东省",
+    "year": "2023",
+    "value": 24293
+  },
+  {
+    "province": "山东省",
+    "year": "2022",
+    "value": 22640
+  },
+  {
+    "province": "山东省",
+    "year": "2021",
+    "value": 22821
+  },
+  {
+    "province": "山东省",
+    "year": "2020",
+    "value": 20940
+  },
+  {
+    "province": "山东省",
+    "year": "2019",
+    "value": 20427
+  },
+  {
+    "province": "山东省",
+    "year": "2018",
+    "value": 18780
+  },
+  {
+    "province": "山东省",
+    "year": "2017",
+    "value": 17281
+  },
+  {
+    "province": "山东省",
+    "year": "2016",
+    "value": 15926
+  },
+  {
+    "province": "河南省",
+    "year": "2025",
+    "value": 22850
+  },
+  {
+    "province": "河南省",
+    "year": "2024",
+    "value": 21956
+  },
+  {
+    "province": "河南省",
+    "year": "2023",
+    "value": 21011
+  },
+  {
+    "province": "河南省",
+    "year": "2022",
+    "value": 19019
+  },
+  {
+    "province": "河南省",
+    "year": "2021",
+    "value": 18391
+  },
+  {
+    "province": "河南省",
+    "year": "2020",
+    "value": 16143
+  },
+  {
+    "province": "河南省",
+    "year": "2019",
+    "value": 16332
+  },
+  {
+    "province": "河南省",
+    "year": "2018",
+    "value": 15169
+  },
+  {
+    "province": "河南省",
+    "year": "2017",
+    "value": 13730
+  },
+  {
+    "province": "河南省",
+    "year": "2016",
+    "value": 12712
+  },
+  {
+    "province": "湖北省",
+    "year": "2025",
+    "value": 28769
+  },
+  {
+    "province": "湖北省",
+    "year": "2024",
+    "value": 27888
+  },
+  {
+    "province": "湖北省",
+    "year": "2023",
+    "value": 27106
+  },
+  {
+    "province": "湖北省",
+    "year": "2022",
+    "value": 24828
+  },
+  {
+    "province": "湖北省",
+    "year": "2021",
+    "value": 23846
+  },
+  {
+    "province": "湖北省",
+    "year": "2020",
+    "value": 19246
+  },
+  {
+    "province": "湖北省",
+    "year": "2019",
+    "value": 21567
+  },
+  {
+    "province": "湖北省",
+    "year": "2018",
+    "value": 19538
+  },
+  {
+    "province": "湖北省",
+    "year": "2017",
+    "value": 16938
+  },
+  {
+    "province": "湖北省",
+    "year": "2016",
+    "value": 15889
+  },
+  {
+    "province": "湖南省",
+    "year": "2025",
+    "value": 27882
+  },
+  {
+    "province": "湖南省",
+    "year": "2024",
+    "value": 26760
+  },
+  {
+    "province": "湖南省",
+    "year": "2023",
+    "value": 25462
+  },
+  {
+    "province": "湖南省",
+    "year": "2022",
+    "value": 24083
+  },
+  {
+    "province": "湖南省",
+    "year": "2021",
+    "value": 22798
+  },
+  {
+    "province": "湖南省",
+    "year": "2020",
+    "value": 20998
+  },
+  {
+    "province": "湖南省",
+    "year": "2019",
+    "value": 20479
+  },
+  {
+    "province": "湖南省",
+    "year": "2018",
+    "value": 18808
+  },
+  {
+    "province": "湖南省",
+    "year": "2017",
+    "value": 17160
+  },
+  {
+    "province": "湖南省",
+    "year": "2016",
+    "value": 15750
+  },
+  {
+    "province": "广东省",
+    "year": "2025",
+    "value": 37262
+  },
+  {
+    "province": "广东省",
+    "year": "2024",
+    "value": 35818
+  },
+  {
+    "province": "广东省",
+    "year": "2023",
+    "value": 34331
+  },
+  {
+    "province": "广东省",
+    "year": "2022",
+    "value": 32169
+  },
+  {
+    "province": "广东省",
+    "year": "2021",
+    "value": 31589
+  },
+  {
+    "province": "广东省",
+    "year": "2020",
+    "value": 28492
+  },
+  {
+    "province": "广东省",
+    "year": "2019",
+    "value": 28995
+  },
+  {
+    "province": "广东省",
+    "year": "2018",
+    "value": 26054
+  },
+  {
+    "province": "广东省",
+    "year": "2017",
+    "value": 24820
+  },
+  {
+    "province": "广东省",
+    "year": "2016",
+    "value": 23448
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2025",
+    "value": 22142
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2024",
+    "value": 21150
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2023",
+    "value": 19749
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2022",
+    "value": 18343
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2021",
+    "value": 18088
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2020",
+    "value": 16357
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2019",
+    "value": 16418
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2018",
+    "value": 14935
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2017",
+    "value": 13424
+  },
+  {
+    "province": "广西壮族自治区",
+    "year": "2016",
+    "value": 12295
+  },
+  {
+    "province": "海南省",
+    "year": "2025",
+    "value": 27147
+  },
+  {
+    "province": "海南省",
+    "year": "2024",
+    "value": 25908
+  },
+  {
+    "province": "海南省",
+    "year": "2023",
+    "value": 23752
+  },
+  {
+    "province": "海南省",
+    "year": "2022",
+    "value": 21500
+  },
+  {
+    "province": "海南省",
+    "year": "2021",
+    "value": 22242
+  },
+  {
+    "province": "海南省",
+    "year": "2020",
+    "value": 18972
+  },
+  {
+    "province": "海南省",
+    "year": "2019",
+    "value": 19555
+  },
+  {
+    "province": "海南省",
+    "year": "2018",
+    "value": 17528
+  },
+  {
+    "province": "海南省",
+    "year": "2017",
+    "value": 15403
+  },
+  {
+    "province": "海南省",
+    "year": "2016",
+    "value": 14275
+  },
+  {
+    "province": "重庆市",
+    "year": "2025",
+    "value": 28046
+  },
+  {
+    "province": "重庆市",
+    "year": "2024",
+    "value": 27451
+  },
+  {
+    "province": "重庆市",
+    "year": "2023",
+    "value": 26515
+  },
+  {
+    "province": "重庆市",
+    "year": "2022",
+    "value": 25371
+  },
+  {
+    "province": "重庆市",
+    "year": "2021",
+    "value": 24598
+  },
+  {
+    "province": "重庆市",
+    "year": "2020",
+    "value": 21678
+  },
+  {
+    "province": "重庆市",
+    "year": "2019",
+    "value": 20774
+  },
+  {
+    "province": "重庆市",
+    "year": "2018",
+    "value": 19248
+  },
+  {
+    "province": "重庆市",
+    "year": "2017",
+    "value": 17898
+  },
+  {
+    "province": "重庆市",
+    "year": "2016",
+    "value": 16385
+  },
+  {
+    "province": "四川省",
+    "year": "2025",
+    "value": 26073
+  },
+  {
+    "province": "四川省",
+    "year": "2024",
+    "value": 24878
+  },
+  {
+    "province": "四川省",
+    "year": "2023",
+    "value": 23550
+  },
+  {
+    "province": "四川省",
+    "year": "2022",
+    "value": 22302
+  },
+  {
+    "province": "四川省",
+    "year": "2021",
+    "value": 21518
+  },
+  {
+    "province": "四川省",
+    "year": "2020",
+    "value": 19783
+  },
+  {
+    "province": "四川省",
+    "year": "2019",
+    "value": 19338
+  },
+  {
+    "province": "四川省",
+    "year": "2018",
+    "value": 17664
+  },
+  {
+    "province": "四川省",
+    "year": "2017",
+    "value": 16180
+  },
+  {
+    "province": "四川省",
+    "year": "2016",
+    "value": 14839
+  },
+  {
+    "province": "贵州省",
+    "year": "2025",
+    "value": 21770
+  },
+  {
+    "province": "贵州省",
+    "year": "2024",
+    "value": 20871
+  },
+  {
+    "province": "贵州省",
+    "year": "2023",
+    "value": 20161
+  },
+  {
+    "province": "贵州省",
+    "year": "2022",
+    "value": 17939
+  },
+  {
+    "province": "贵州省",
+    "year": "2021",
+    "value": 17957
+  },
+  {
+    "province": "贵州省",
+    "year": "2020",
+    "value": 14874
+  },
+  {
+    "province": "贵州省",
+    "year": "2019",
+    "value": 14780
+  },
+  {
+    "province": "贵州省",
+    "year": "2018",
+    "value": 13798
+  },
+  {
+    "province": "贵州省",
+    "year": "2017",
+    "value": 12970
+  },
+  {
+    "province": "贵州省",
+    "year": "2016",
+    "value": 11932
+  },
+  {
+    "province": "云南省",
+    "year": "2025",
+    "value": 23335
+  },
+  {
+    "province": "云南省",
+    "year": "2024",
+    "value": 22280
+  },
+  {
+    "province": "云南省",
+    "year": "2023",
+    "value": 20995
+  },
+  {
+    "province": "云南省",
+    "year": "2022",
+    "value": 18951
+  },
+  {
+    "province": "云南省",
+    "year": "2021",
+    "value": 18851
+  },
+  {
+    "province": "云南省",
+    "year": "2020",
+    "value": 16792
+  },
+  {
+    "province": "云南省",
+    "year": "2019",
+    "value": 15780
+  },
+  {
+    "province": "云南省",
+    "year": "2018",
+    "value": 14250
+  },
+  {
+    "province": "云南省",
+    "year": "2017",
+    "value": 12658
+  },
+  {
+    "province": "云南省",
+    "year": "2016",
+    "value": 11769
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2025",
+    "value": 20501
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2024",
+    "value": 18983
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2023",
+    "value": 17220
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2022",
+    "value": 15886
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2021",
+    "value": 15342
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2020",
+    "value": 13225
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2019",
+    "value": 13029
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2018",
+    "value": 11520
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2017",
+    "value": 10320
+  },
+  {
+    "province": "西藏自治区",
+    "year": "2016",
+    "value": 9319
+  },
+  {
+    "province": "陕西省",
+    "year": "2025",
+    "value": 24409
+  },
+  {
+    "province": "陕西省",
+    "year": "2024",
+    "value": 23213
+  },
+  {
+    "province": "陕西省",
+    "year": "2023",
+    "value": 22012
+  },
+  {
+    "province": "陕西省",
+    "year": "2022",
+    "value": 19848
+  },
+  {
+    "province": "陕西省",
+    "year": "2021",
+    "value": 19347
+  },
+  {
+    "province": "陕西省",
+    "year": "2020",
+    "value": 17418
+  },
+  {
+    "province": "陕西省",
+    "year": "2019",
+    "value": 17465
+  },
+  {
+    "province": "陕西省",
+    "year": "2018",
+    "value": 16160
+  },
+  {
+    "province": "陕西省",
+    "year": "2017",
+    "value": 14900
+  },
+  {
+    "province": "陕西省",
+    "year": "2016",
+    "value": 13943
+  },
+  {
+    "province": "甘肃省",
+    "year": "2025",
+    "value": 20781
+  },
+  {
+    "province": "甘肃省",
+    "year": "2024",
+    "value": 19829
+  },
+  {
+    "province": "甘肃省",
+    "year": "2023",
+    "value": 19013
+  },
+  {
+    "province": "甘肃省",
+    "year": "2022",
+    "value": 17489
+  },
+  {
+    "province": "甘肃省",
+    "year": "2021",
+    "value": 17456
+  },
+  {
+    "province": "甘肃省",
+    "year": "2020",
+    "value": 16175
+  },
+  {
+    "province": "甘肃省",
+    "year": "2019",
+    "value": 15879
+  },
+  {
+    "province": "甘肃省",
+    "year": "2018",
+    "value": 14624
+  },
+  {
+    "province": "甘肃省",
+    "year": "2017",
+    "value": 13120
+  },
+  {
+    "province": "甘肃省",
+    "year": "2016",
+    "value": 12254
+  },
+  {
+    "province": "青海省",
+    "year": "2025",
+    "value": 22315
+  },
+  {
+    "province": "青海省",
+    "year": "2024",
+    "value": 21204
+  },
+  {
+    "province": "青海省",
+    "year": "2023",
+    "value": 20327
+  },
+  {
+    "province": "青海省",
+    "year": "2022",
+    "value": 17261
+  },
+  {
+    "province": "青海省",
+    "year": "2021",
+    "value": 19020
+  },
+  {
+    "province": "青海省",
+    "year": "2020",
+    "value": 18284
+  },
+  {
+    "province": "青海省",
+    "year": "2019",
+    "value": 17545
+  },
+  {
+    "province": "青海省",
+    "year": "2018",
+    "value": 16557
+  },
+  {
+    "province": "青海省",
+    "year": "2017",
+    "value": 15503
+  },
+  {
+    "province": "青海省",
+    "year": "2016",
+    "value": 14775
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2025",
+    "value": 23971
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2024",
+    "value": 22865
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2023",
+    "value": 21629
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2022",
+    "value": 19136
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2021",
+    "value": 20024
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2020",
+    "value": 17506
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2019",
+    "value": 18297
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2018",
+    "value": 16715
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2017",
+    "value": 15350
+  },
+  {
+    "province": "宁夏回族自治区",
+    "year": "2016",
+    "value": 14965
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2025",
+    "value": 22657
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2024",
+    "value": 21364
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2023",
+    "value": 19715
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2022",
+    "value": 17927
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2021",
+    "value": 18961
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2020",
+    "value": 16512
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2019",
+    "value": 17397
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2018",
+    "value": 16189
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2017",
+    "value": 15087
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "year": "2016",
+    "value": 14066
+  }
+]
